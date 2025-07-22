@@ -34,7 +34,7 @@ GeneralDiscription of assignment: Implements a flood-fill algorithm using a temp
   - filler.cpp
   - filler-private.h
 
-#PA3: Hextree image compression.
+# PA3: Hextree image compression.
 Discription of assignment: This project involves implementing a HexTree constructor that recursively builds a tree from a PNG image. Each node represents a rectangular region of pixels, storing the region's average color (computed in constant time), and subdivides into up to six child regions based on specific splitting rules. Leaf nodes correspond to individual pixels, while internal nodes represent progressively larger regions of the image. The splitting ensures full, non-overlapping coverage of the original image.
 
   - Hextree.cpp
